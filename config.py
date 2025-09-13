@@ -41,6 +41,9 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
 OWNER_ID = int(getenv("OWNER_ID", 7403621976))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
+API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
+API_KEY = getenv("API_KEY", 'NxGBNexGenBotse2fcb7') # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
